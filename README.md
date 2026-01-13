@@ -10,7 +10,7 @@ Welcome to my GitHub! I'm **Arjun Sharma**, a passionate software developer focu
 
 - 📧 Email: **arjunsharma3132@gmail.com**
 - 📱 Phone: **+91 78144 05105**
-- 💼 LinkedIn: *Available on request*
+- 💼 LinkedIn: <a href="https://www.linkedin.com/in/arjun-sharma-48431732a/">Linkedin</a>
 - 🌐 Portfolio: <a href="https://portfolio-website-three-kappa-71.vercel.app/">Portfolio link</a>
 
 ---
