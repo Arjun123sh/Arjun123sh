@@ -1,116 +1,127 @@
-<!-- Profile Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00C0A3&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Arjun+Sharma;Full+Stack+Developer+from+India;React+%7C+Next.js+%7C+Node.js+Enthusiast" alt="Typing Animation" />
-</h1>
+# 👨‍💻 Arjun Sharma
 
-<p align="center">
-  <a href="https://portfolio-website-chi-amber.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-00C0A3?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/shubham-29b4ba21a/" target="_blank">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:arjunsharma3132@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+🚀 **Software Developer | Full Stack Engineer | Frontend Specialist**
+
+Welcome to my GitHub! I'm **Arjun Sharma**, a passionate software developer focused on building scalable, user-centric, and high-performance web applications using modern technologies.
 
 ---
 
-## 🧑‍🎓 Education  
+## 📫 Contact Me
 
-🎓 **Bachelor of Technology in Computer Science & Engineering**  
-🏫 *I.K. Gujral Punjab Technical University*  
-📅 *June 2025* • **CGPA:** 7.9  
-
----
-
-## 💼 Experience  
-
-### 💻 **Software Developer** — *Motherson Technology Services Limited*  
-📍 *Noida (On-site)* | 🗓️ *July 2024 – Present*  
-- Contributing to the **Enterprise Service Bus (ESB) Dashboard**.  
-- Building scalable interfaces using **React** and **React-Bootstrap**.  
-- Developing backend services with **Spring Boot** and **MS SQL Server**.  
-- Collaborating in an Agile team using **Visual Studio 2022** for debugging and deployment.  
+- 📧 Email: **arjunsharma3132@gmail.com**
+- 📱 Phone: **+91 78144 05105**
+- 💼 LinkedIn: *Available on request*
+- 🌐 Portfolio: *Available on request*
 
 ---
 
-### 🌐 **Software Engineer Intern** — *Scriptbox Pvt. Ltd*  
-📍 *Amritsar (Remote)* | 🗓️ *June 2024 – July 2025*  
-- Developed modern UIs using **Next.js**, **Material-UI**, **React**, and **TypeScript**.  
-- Integrated backend services using **Firebase**, **Supabase**, **PostgreSQL**, and **Prisma**.  
-- Collaborated on design systems ensuring **pixel-perfect** and responsive interfaces.  
+## 🎓 Education
+
+**I.K. Gujral Punjab Technical University**  
+🎓 *Bachelor of Technology – Computer Science & Engineering*  
+📅 **Graduation:** June 2025  
+📊 **CGPA:** 7.9  
 
 ---
 
-## 🚀 Projects  
+## 💼 Professional Experience
 
-### 🥘 **PattyKulcha.com** — Food Delivery Platform  
-**Tech Stack:** Next.js, TypeScript, Firebase, Google Maps API, Stripe  
-- Built a real-time **food delivery website** with live driver tracking.  
-- Integrated **Stripe** for secure multi-method payments.  
-- Used **Firebase Realtime Database** for live updates and notifications.  
+### 🏢 Software Developer  
+**Motherson Technology Services Limited** — *Noida*  
+📅 **July 2025 – Present**
 
----
-
-### 🌍 **ImmiFlow** — Immigration Management Platform  
-**Tech Stack:** Next.js, Supabase, WebRTC, Kanban  
-- Designed a real-time **application management system** inspired by ApplyBoard.  
-- Implemented **WebRTC** for live video consultation and **Supabase Channels** for chat.  
-- Developed a **Kanban-based admin dashboard** with role-based access control.  
+- Developing enterprise-grade dashboards for the company’s **ESB (Enterprise Service Bus)**.
+- Building responsive and scalable UIs using **React** and **React-Bootstrap**.
+- Implementing backend services using **Spring Boot** with **MS SQL Server**.
+- Working with **Visual Studio 2022** and modern debugging practices.
+- Collaborating closely with cross-functional teams to deliver production-ready solutions.
 
 ---
 
-### 🎓 **EdTech Platform** — Learning Management System  
-**Tech Stack:** MERN Stack, Tailwind CSS, Redux, NodeMailer, CCAvenue  
-- Created an **end-to-end learning platform** with payment integration and email automation.  
-- Improved performance by **30%** using optimized API handling and asset management.  
-- Enhanced learner engagement through an intuitive **Redux-powered** interface.  
+### 🧑‍💻 Software Engineer Intern  
+**Scriptbox Pvt. Ltd.** — *Amritsar*  
+📅 **June 2024 – July 2025**
+
+- Built responsive and intuitive UIs using **Next.js, React, TypeScript, and Material-UI**.
+- Focused on delivering seamless user experiences and pixel-perfect designs.
+- Integrated backend services using **Firebase, Supabase, PostgreSQL, and Prisma**.
+- Collaborated with designers and backend engineers to meet business requirements.
 
 ---
 
-## 🧠 Skills & Tools  
+## 🚀 Projects
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,java,spring,python,mongodb,mysql,postgres,prisma,firebase,supabase,tailwind,materialui,git,github,vscode,vercel" />
-</p>
+### 🍔 PattyKulcha.com  
+**Tech Stack:** Next.js, Material-UI, TypeScript, Firebase, Google Maps API, Stripe
 
----
-
-## ⚙️ Development Environment  
-
-- 💻 **Editor:** Visual Studio Code  
-- 🧩 **Version Control:** Git & GitHub  
-- 🧠 **Project Management:** Agile / Scrum  
-- ☁️ **Hosting:** Firebase, Vercel  
+- Developed a full-scale **food delivery platform**.
+- Implemented **real-time driver tracking** using Google Maps API.
+- Integrated **Stripe** for secure online payments.
+- Built real-time order management and notifications using Firebase.
+- Designed a smooth, responsive, and user-friendly ordering experience.
 
 ---
 
-## 📊 GitHub Analytics  
+### 🌍 ImmiFlow – Immigration Application Platform  
+**Tech Stack:** Next.js, Supabase, WebRTC, Kanban
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arjun123sh&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjun123sh&theme=tokyonight&hide_border=true" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjun123sh&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</p>
+- Built an application management platform similar to **ApplyBoard**.
+- Implemented **real-time chat** using Supabase Channels.
+- Added **video calling** functionality using WebRTC.
+- Designed an **admin dashboard with Kanban boards** for case management.
+- Implemented **role-based access control** for admins and agents.
 
 ---
 
-## 🌐 Connect With Me  
+### 🎓 EdTech Platform  
+**Tech Stack:** MERN Stack, Tailwind CSS, Redux, Node.js, CCAvenue, NodeMailer
 
-<p align="center">
-  <a href="https://twitter.com/arjun14619817" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="40" /></a>
-  <a href="https://www.linkedin.com/in/shubham-29b4ba21a/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-  <a href="https://instagram.com/arjun_sharma1231" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
-  <a href="mailto:arjunsharma3132@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
-</p>
+- Built a full-stack EdTech platform from scratch.
+- Improved initial load time by **30%** using performance optimization strategies.
+- Implemented intuitive UI/UX with **Tailwind CSS** and **Redux**.
+- Integrated secure payment gateway and automated email notifications.
 
 ---
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=00C0A3&center=true&vCenter=true&width=700&lines=Building+Scalable+Apps+💻;Learning+Every+Day+🚀;Turning+Ideas+into+Reality+🌟" alt="Typing Animation Footer" />
-</h3>
+## 🛠️ Skills
+
+### 💻 Programming Languages
+- C, C++, Java, Python, JavaScript, SQL
+
+### ⚙️ Frameworks & Libraries
+- React.js, Next.js, Express.js, Spring Boot  
+- Tailwind CSS, Material-UI, React-Bootstrap
+
+### 🗄️ Databases & ORM
+- MongoDB, MySQL, PostgreSQL, MS SQL Server  
+- Prisma
+
+### 🧠 Core Concepts
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms (DSA)
+
+### 🔧 Tools & Platforms
+- Git, GitHub
+- VS Code
+- Firebase, Supabase
+
+### 🤖 Generative AI & LLMs
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Prompt Engineering
+- Text Chunking & Embeddings
+- Semantic Search
+- OpenAI API, Ollama
+
+---
+
+## 🌟 What I’m Passionate About
+
+- Building scalable and maintainable applications
+- Crafting smooth and delightful user experiences
+- Exploring **Generative AI**, **LLMs**, and modern web architectures
+- Continuous learning and improving code quality
+
+---
+
+⭐ **If you like my work, feel free to star my repositories and connect with me!**
